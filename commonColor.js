@@ -268,6 +268,11 @@ module.exports = {
   blueGrey800: '#37474f',
   blueGrey900: '#263238',
 
+  grey10: '#f1f1f1',
+  grey15: '#eaeaea',
+  grey16: '#efefef',
+  grey20: '#f1f2f3',
+  grey40: '#f9f9f9',
   grey50: '#fafafa',
   grey100: '#f5f5f5',
   grey200: '#eeeeee',
